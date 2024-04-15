@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rifreg': Unconditional Quantile (Recentered Influence Function (RIF)) Regression Use rifreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rifreg.ado
+f rifreg.hlp
