@@ -1,6 +1,8 @@
 # rifreg
 Unconditional Quantile (Recentered Influence Function (RIF)) Regression Use rifreg With STATA 18
 
+https://www.youtube.com/watch?v=pV7_EgBSxe0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
